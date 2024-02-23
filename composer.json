@@ -35,9 +35,6 @@
                 "backgroundColor": "#e74c3c",
                 "color": "#FFF"
             }
-        },
-        "flagrow": {
-            "discuss": "https://dev.gtd.xyz"
         }
     },
     "autoload": {
